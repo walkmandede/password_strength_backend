@@ -1,7 +1,4 @@
 # %%
-import pandas as pd
-
-
 def proceed_password(password):
     result = []
 
